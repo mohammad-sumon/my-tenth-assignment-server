@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "desc": "This is a basic part to start learning any programming language.",
+        "details1": "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content. HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc.",
+        "details2": "All HTML documents must start with a document type declaration: <!DOCTYPE html>.",
+        "details3": "The HTML document itself begins with <html> and ends with </html>.",
+        "details4": "The visible part of the HTML document is between <body> and </body>.",
+        "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aHRtbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "desc": "After complete HTML you must learn to CSS for style.",
+        "details1": "CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.",
+        "details2": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.",
+        "details3": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. ",
+        "details4": "CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files",
+        "img": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "3",
+        "name": "JavaScript",
+        "desc": "This is one of the best programming language now a days. Javascript's demand is out of bound. You can use this except web, like any other cross platform.",
+        "details1": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
+        "details2": "JavaScript is the programming language of the Web.",
+        "details3": "JavaScript is easy to learn.",
+        "details4": "JavaScript is the world's most popular programming language.",
+        "img": "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8amF2YXNjcmlwdHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "4",
+        "name": "React",
+        "desc": "React is the most exiciting and famous JS library now a days. Your life will be more easier when you start using React.",
+        "details1": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "details2": "React is a JavaScript library for building user interfaces.",
+        "details3": "React is a JavaScript library created by Facebook",
+        "details4": "React is a tool for building UI components",
+        "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhY3R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "5",
+        "name": "Node",
+        "desc": "Node JS is the very common backend programming language. Lot of developers use Node JS. Just explore this.",
+        "details1": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications. ",
+        "details2": "Node.js, a JavaScript runtime for building server-side or desktop applications.",
+        "details3": "Node provides access to several important global objects for use with Node program files. ",
+        "details4": "Node has a many built-in modules to aid in interactions with the command line, the computer file system, and the Internet.",
+        "img": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bm9kZSUyMGpzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "6",
+        "name": "Github",
+        "desc": "It is the best place for any developer to store your code here. Really it is fantastic.",
+        "details1": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.",
+        "details2": "GitHub is a platform for hosting code that allows for version control and collaboration. It allows you and others to collaborate on projects from anywhere. This lesson will teach you the fundamentals of GitHub, such as repositories, branches, commits, and pull requests.",
+        "details3": "Github is used by developers, programming instructors, students, and businesses all across the world to host millions of open source projects and facilitate structured collaboration on a single platform. It is a collaborative web-based platform with version control systems that allows for more effective software development.",
+        "details4": "Github can be used via creating and maintaining a repository, beginning and managing a new branch, making changes to a file and committing them to GitHub, and opening and merging a pull request.",
+        "img": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2l0aHVifGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

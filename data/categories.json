@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "desc": "This is a basic part to start learning any programming language.",
+        "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aHRtbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "desc": "After complete HTML you must learn to CSS for style.",
+        "img": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "3",
+        "name": "JavaScript",
+        "desc": "This is one of the best programming language now a days. Javascript's demand is out of bound. You can use this except web, like any other cross platform.",
+        "img": "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8amF2YXNjcmlwdHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "4",
+        "name": "React",
+        "desc": "React is the most exiciting and famous JS library now a days. Your life will be more easier when you start using React.",
+        "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhY3R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "5",
+        "name": "Node",
+        "desc": "Node JS is the very common backend programming language. Lot of developers use Node JS. Just explore this.",
+        "img": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bm9kZSUyMGpzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "6",
+        "name": "Github",
+        "desc": "It is the best place for any developer to store your code here. Really it is fantastic.",
+        "img": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2l0aHVifGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]
